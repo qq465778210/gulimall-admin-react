@@ -4,7 +4,7 @@ class Index extends Component {
     render() {
         return (
             <div>
-                商品
+                商品首页
             </div>
         );
     }

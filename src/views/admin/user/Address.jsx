@@ -4,7 +4,7 @@ class Address extends Component {
     render() {
         return (
             <div>
-                地址
+                用户收货地址
             </div>
         );
     }

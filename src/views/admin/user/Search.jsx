@@ -4,7 +4,7 @@ class Search extends Component {
     render() {
         return (
             <div>
-                用户搜索
+                用户搜索记录
             </div>
         );
     }

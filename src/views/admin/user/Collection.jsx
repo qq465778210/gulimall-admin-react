@@ -4,7 +4,7 @@ class Collection extends Component {
     render() {
         return (
             <div>
-                会员收藏
+                用户会员收藏
             </div>
         );
     }
